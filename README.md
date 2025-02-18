@@ -14,4 +14,4 @@ This is a simple Java-based program that suggests cars to users based on their p
 * cars.txt: A text file that contains the car data used by the program.
 
 ## Getting Start
-Clone the repository: 
+Clone the repository: https://github.com/bunhoutnub/Car-Suggestion-Program.git
