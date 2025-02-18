@@ -12,3 +12,6 @@ This is a simple Java-based program that suggests cars to users based on their p
 * CarDatabase.java: Provides functionality to read car data from a file and create a list of Car objects.
 * CarSuggestionProgram.java: Main program that interacts with the user, processes their input, and displays car suggestions.
 * cars.txt: A text file that contains the car data used by the program.
+
+## Getting Start
+Clone the repository: 
