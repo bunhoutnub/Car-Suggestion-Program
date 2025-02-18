@@ -1,0 +1,85 @@
+Name,Price,Type,Features,Brand,PassengerCapacity,Year
+Ford Fusion,28000,Sedan,abce,Ford,5,2024
+Chevrolet Impala,23000,Sedan,abce,Chevrolet,5,2024
+GMC Terrain,27000,SUV,abce,GMC,5,2024
+Cadillac XT5,32000,SUV,abce,Cadillac,5,2024
+Dodge Charger,35000,Sedan,abcd,Dodge,5,2024
+Jeep Compass,25000,SUV,abce,Jeep,5,2024
+Buick Enclave,43000,SUV,abce,Buick,7,2024
+Chrysler Pacifica,36000,Minivan,abce,Chrysler,7,2024
+Lincoln Aviator,58000,SUV,abce,Lincoln,7,2024
+Tesla Model S,80000,Sedan,ace,Tesla,5,2024
+Ram 2500,45000,Truck,abe,Ram,5,2024
+Chevrolet Tahoe,55000,SUV,abce,Chevrolet,8,2024
+Ford Escape,29000,SUV,abce,Ford,5,2024
+GMC Acadia,42000,SUV,abce,GMC,7,2024
+Dodge Durango,38000,SUV,abce,Dodge,7,2024
+Cadillac Escalade,85000,SUV,abce,Cadillac,7,2024
+Buick Encore,26000,SUV,abce,Buick,5,2024
+Chrysler 300,40000,Sedan,abcd,Chrysler,5,2024
+Lincoln Navigator,90000,SUV,abce,Lincoln,8,2024
+Tesla Model X,90000,SUV,ace,Tesla,7,2024
+Ford Fusion,24000,Sedan,abce,Ford,5,2024
+GMC Sierra 1500,40000,Truck,abe,GMC,5,2024
+Chevrolet Equinox,26000,SUV,abce,Chevrolet,5,2024
+Ford Edge,27000,SUV,abce,Ford,5,2024
+Jeep Renegade,28000,SUV,abce,Jeep,5,2024
+Dodge Challenger,40000,Coupe,abcd,Dodge,5,2024
+Chrysler Voyager,31000,Minivan,abce,Chrysler,7,2024
+Mazda 3,24000,sedan,abce,Mazda,5,2024
+Lincoln Corsair,38000,SUV,abce,Lincoln,5,2024
+Cadillac CT4,38000,Sedan,abce,Cadillac,5,2024
+Tesla Model Y,60000,SUV,ace,Tesla,5,2024
+Ram 3500,55000,Truck,abe,Ram,5,2024
+Chevrolet Traverse,38000,SUV,abce,Chevrolet,7,2024
+Ford Expedition,54000,SUV,abce,Ford,8,2024
+GMC Canyon,35000,Truck,abe,GMC,5,2024
+Buick Envision,34000,SUV,abce,Buick,5,2024
+Lincoln Nautilus,50000,SUV,abce,Lincoln,5,2024
+Cadillac XT4,37000,SUV,abce,Cadillac,5,2024
+Ram 4500,60000,Truck,abe,Ram,5,2024
+Toyota CHR,24000,Suv,abce,Toyota,4,2024
+Chevrolet Suburban,60000,SUV,abce,Chevrolet,8,2024
+Ford Bronco,37000,SUV,abce,Ford,5,2024
+GMC Yukon,57000,SUV,abce,GMC,8,2024
+Dodge Grand Caravan,29000,Minivan,abce,Dodge,7,2024
+Toyota Sequoia,60000,Suv,abce,Toyota,8,2024
+Jeep Wagoneer,62000,SUV,abce,Jeep,8,2024
+Buick Encore GX,26000,SUV,abce,Buick,5,2024
+Chrysler Imperial,60000,Sedan,abcd,Chrysler,5,2024
+Honda Accord,27000,Sedan,abce,Honda,5,2023
+Mazda MX-5 Miata,28000,coupe,acd,Mazda,2,2024
+Toyota RAV4,28000,SUV,abce,Toyota,5,2022
+Honda CR-V,29000,SUV,abce,Honda,5,2023
+Subaru Forester,27000,SUV,abce,Subaru,5,2023
+Toyota Camry,28000,Sedan,abce,Toyota,5,2024
+Honda HRV,25000,Suv,abce,Honda,5,2024
+Mazda 6,25000,Sedan,abc,Mazda,5,2023
+Ford F-150,35000,Truck,abe,Ford,5,2021
+Nissan Rogue,28000,SUV,abce,Nissan,5,2024
+Chevrolet Silverado 1500,36000,Truck,abe,Chevrolet,5,2022
+Ford Mustang,30000,coupe,acd,Ford,2,2024
+Kia K5,24000,sedan,abce,Kia,2024
+Honda Passport,40000,Suv,abce,Honda,2024
+Ram 1500,37000,Truck,abe,Ram,5,2022
+Jeep Grand Cherokee,38000,SUV,abce,Jeep,5,2024
+Ford Explorer,39000,SUV,abce,Ford,7,2024
+Honda Insight,25000,sedan,abce,Honda,5,2024
+Nissan Altima,26000,sedan,abce,Nissan,5,2024
+Tesla Model 3,38000,Sedan,ace,Tesla,5,2023
+Nissan Leaf,34000,Hatchback,ace,Nissan,5,2023
+Volkswagen Golf,33000,Hatchback,ace,Volkswagen,5,2022
+Toyota Corolla,22000,Sedan,abce,Toyota,5,2024
+Honda Pilot,39000,Suv,abce,Honda,8,2024
+Honda Civic,16000,Sedan,abc,Honda,5,2017
+Ford Focus,14000,Sedan,abc,Ford,5,2016
+Toyota Highlander,39000,SUV,abce,Toyota,8,2024
+Chevrolet Malibu,17000,Sedan,abc,Chevrolet,5,2015
+Hyundai Elantra,13000,Sedan,abc,Hyundai,5,2014
+Jeep Wrangler,31000,SUV,abce,Jeep,5,2024
+Hyundai Sonata,27000,Sedan,abce,Hyundai,5,2024
+Toyota Prius,27000,Sedan,abce,Toyota,5,2024
+Nissan Sentra,12000,Sedan,abc,Nissan,5,2013
+Volkswagen Jetta,18000,Sedan,abc,Volkswagen,5,2012
+Subaru BRZ,30000,coupe,acd,Subaru,2,2024
+Toyota 4Runner,40000,SUV,abce,Toyota,7,2024
